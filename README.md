@@ -12,6 +12,10 @@ The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+## Video Walkthrough 
+
+<img src='http://g.recordit.co/uan0wf7zvx.gif' title='Video' width='' alt='Video' />
+
 ## Notes
 
 No challenges.
